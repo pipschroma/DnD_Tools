@@ -13,7 +13,7 @@ And some homebrew tools, such as:
 - Enemy balancer
 - (...) (Still looking for other ideas that might come up!)
 
-I also hope I can develop a better and more interactive interface in the future.
+I also hope I can develop a better and more interactive interface in the future, probably by using another language.
 
 
 
